@@ -3,6 +3,7 @@
   "displayName": "special-code-annotation",
   "description": "一些有趣的代码注释",
   "version": "0.0.1",
+  "publisher": "wuyujiesong",
   "engines": {
     "vscode": "^1.46.0"
   },
